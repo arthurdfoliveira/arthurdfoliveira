@@ -1,6 +1,8 @@
 # ⚡Arthur da Fonte
 
-<p align="left"> Sou estudante de Ciência da Computação na CESAR School, constantemente à procura de conhecimento acerca da área da tecnologia, como ciência de dados, desenvolvimento de software e inteligência artificial.</p>
+<p align="left"> 
+  Sou estudante de Ciência da Computação na CESAR School, constantemente à procura de conhecimento acerca da área da tecnologia, como ciência de dados, desenvolvimento de software e inteligência artificial.
+</p>
 
 ## 🖥Competências:
 
