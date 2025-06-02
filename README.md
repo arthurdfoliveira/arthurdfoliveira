@@ -1,16 +1,13 @@
-## Hi there 👋
+## Arthur⚡
 
-<!--
-**arthurdfoliveira/arthurdfoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação na **CESAR School**, constantemente à procura
+de conhecimento acerca da área da tecnologia, como ciência de dados, desenvolvimento
+de software e inteligência artificial.
 
-Here are some ideas to get you started:
+**Contato:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![E-mail](afo@cesar.school)
+  
+![LinkedIn](www.linkedin.com/in/arthurdafontedeoliveira)
+  
+![Instagram](https://www.instagram.com/arthurdfoliveira/)
