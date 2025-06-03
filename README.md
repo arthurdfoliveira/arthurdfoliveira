@@ -1,10 +1,10 @@
-# Arthur da Fonte⚡
+# Arthur⚡
 
 <p align="left"> 
-  Sou estudante de Ciência da Computação na CESAR School, constantemente à procura de conhecimento acerca da área da tecnologia, como ciência de dados, desenvolvimento de software e inteligência artificial.
+  Computer Science Student at CESAR School, constantly searching for knowledge about technology, such as data science, software development and artificial intelligence.
 </p>
 
-## 🖥Competências: 
+## 🖥Skills: 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -16,7 +16,7 @@
   <img width="12" />
 </div>
 
-## ⤵️Contato:
+## ⤵️Contact:
 <p align="left">
   <a href="mailto:arthur.fo2810@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
