@@ -1,9 +1,7 @@
 # Arthur⚡
-
-<p align="left"> 
-  * Computer Science Student at CESAR School 
-  * Constantly searching for knowledge about technology, such as data science, software development and artificial intelligence.
-</p>
+ 
+ * Computer Science Student at CESAR School 
+ * Constantly searching for knowledge about technology, such as data science, software development and artificial intelligence.
 
 ## 🖥Skills: 
 <div align="left">
