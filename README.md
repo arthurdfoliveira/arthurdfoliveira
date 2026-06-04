@@ -1,7 +1,6 @@
-# Arthur⚡
+# Arthur👨🏻‍💻
  
- * Computer Science Student at CESAR School 
- * Constantly searching for knowledge about technology, such as data science, software development and artificial intelligence.
+Computer Science Student at CESAR School
 
 ## 🖥Skills: 
 <div align="left">
@@ -26,8 +25,5 @@
   </a>
   <a href="https://www.linkedin.com/in/arthurdafontedeoliveira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/arthurdfoliveira/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
