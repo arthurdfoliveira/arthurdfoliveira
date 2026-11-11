@@ -46,9 +46,6 @@
   <a href="https://www.linkedin.com/in/arthurdafontedeoliveira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/arthurdfoliveira/arthurdfoliveira/blob/main/assets/Curriculo_ArthurDaFonte.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-2C5364?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Currículo">
-  </a>
 </p>
 
 <p align="center"><i>Obrigado pela visita! Fique à vontade para explorar meus repositórios ou entrar em contato. 🚀</i></p>
