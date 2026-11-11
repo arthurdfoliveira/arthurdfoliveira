@@ -16,7 +16,6 @@
       <img src="assets/icons/databricks.svg" height="48" alt="Databricks" />
       <img src="assets/icons/spark.svg" height="48" alt="Apache Spark" />
       <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" /><br/>
-      <sub>Arquitetura Medalhão · Delta Lake · ETL<br/>Modelagem Dimensional · Qualidade de Dados</sub>
     </td>
   </tr>
   <tr>
@@ -25,7 +24,6 @@
       <img src="https://skillicons.dev/icons?i=fastapi,react,vite,vitest&theme=dark" /><br/>
       <img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" />
       <img src="assets/icons/pydantic.svg" height="48" alt="PydanticAI" /><br/>
-      <sub>APIs REST · Agentes de IA com PydanticAI · LLMs via API</sub>
     </td>
     <td align="center" valign="top" width="50%">
       <b>Ferramentas</b><br/><br/>
